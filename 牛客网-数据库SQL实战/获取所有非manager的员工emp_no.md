@@ -20,7 +20,8 @@ CREATE TABLE `employees` (
 PRIMARY KEY (`emp_no`));
 ```
 
-ans:
+
+ANS:
 
 ```sql
 SELECT emp_no FROM employees 
